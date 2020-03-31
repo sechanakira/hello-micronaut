@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.github.sechanakira
+---
+testFramework: junit
+sourceLanguage: java
